@@ -6,7 +6,7 @@
 
    1.2 Usar palavras curtas e simples
 
-   ![Ex:]('/images/algoritmo.png')
+   ![Imagem de exemplo](/images/algoritmo.png)
 
 2. ser **objetivo**
 
